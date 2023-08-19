@@ -4,7 +4,8 @@
 PROJECT DETAILS 
 Our project “Pawsitivity” focuses on reducing the damage that we humans have caused to dogs' lives by rescuing the abandoned dogs and taking good care of them. Many times people wish to genuinely offer a helping hand for these innocent animals but cannot contribute after an extent. So we realized that we need a centralized system that would connect the potential helpers and the needy dogs. Its an initiative where user can : 
 1. Rescue a dog and hand it over to our trusted NGO rescue centers : If a user finds a dog who needs help the user just needs to enter the pin code of his current location and he will be suggested nearest rescue center.To perform this we have used graph data structure. 
-2. Adopt a dog in need , and bestow it with happiness : For adoption we have used array data structure. We used an array as an object of a class that has various attributes. This array served as a database for our NGO. 3. Donate money , funding our NGO that might help a dog in need. 
+2. Adopt a dog in need , and bestow it with happiness : For adoption we have used array data structure. We used an array as an object of a class that has various attributes. This array served as a database for our NGO.
+3. Donate money , funding our NGO that might help a dog in need. 
 Our platform is not just user friendly but also admin friendly. Which makes the process of rescue , adoption and donation easier.At the admin side we keep record of various details and analyze the data for further expansion of business. 
 At the admin side we have : 
 1. Keeping record of all dogs present in the NGO at the moment. 2. Analysis of the number of dogs in each rescue center. 
